@@ -2,6 +2,7 @@
   "name": "minduse-blog",
   "version": "4.0.0",
   "private": true,
+  "license": "MIT",
   "dependencies": {
     "@headlessui/react": "^1.7.17",
     "@heroicons/react": "^2.0.18",
@@ -17,6 +18,7 @@
     "@types/react": "^18.2.38",
     "@types/react-dom": "^18.2.16",
     "eslint-plugin-react-hooks": "^4.6.2",
+    "firebase": "^10.12.2",
     "framer-motion": "^10.16.5",
     "lodash": "^4.17.21",
     "react": "^18.2.0",
